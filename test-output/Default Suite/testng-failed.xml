@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="frontgatetickets.com(failed)">
+    <classes>
+      <class name="FrontGateTickets.Testa">
+        <methods>
+          <include name="setUp"/>
+          <include name="S"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- FrontGateTickets.Testa -->
+    </classes>
+  </test> <!-- frontgatetickets.com(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
