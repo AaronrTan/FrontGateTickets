@@ -39,6 +39,9 @@ ConstantVariables - String email variable
 
 TicketPurchaseTest.Java class has the main test case. newAccountTicketPurchase method with @Test annotation is the Test Runner
 
+Reporting:
+The test report is under test-output folder. Open the index.html in a browser
+The logs can be found in the logfile.log file
 
 Maintenance:
 To add or change the UI elements use the related POM class
